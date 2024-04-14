@@ -17,8 +17,6 @@ public class Test {
               String uaddr=str.substring(i+1);
               System.out.println("Username: "+uname);
               System.out.println("Email Provider: "+uaddr);
-
-
           }
           else
           {

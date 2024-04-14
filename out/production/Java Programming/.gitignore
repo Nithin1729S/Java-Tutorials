@@ -1,0 +1,11 @@
+# Ignore the directory named "Past Yr"
+Past Yr/
+.vscode
+
+# Ignore files with the extension .out
+*.out
+
+# Ignore files with the extension .slog
+*.slog
+*.class
+*.xml
