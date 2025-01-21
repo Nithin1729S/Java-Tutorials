@@ -9,3 +9,5 @@ Past Yr/
 *.slog
 *.class
 *.xml
+*.iml
+.idea
